@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajeeb Lochan Chand!
 
-<!--
-**rajeeblochanchand/rajeeblochanchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | Tech Enthusiast | Robotics & Design Lover**
 
-Here are some ideas to get you started:
+I am passionate about **software development, UI/UX design, and robotics**. Whether it's writing efficient code, designing sleek user interfaces, or building innovative robotic systems, I love bringing ideas to life through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 **B.Tech CSE | 2nd Year** at C.V. Raman Global University
+- 💡 Passionate about **Software, Robotics, and UI/UX Design**
+- 💻 Skilled in **C, Java, Python, SQL, Flutter, VHDL**
+- 🤖 Exploring **AI/ML, Embedded Systems & 3D Design (Fusion 360, Blender)**
+- 🏆 Hackathon Enthusiast | Robotics Club Member | Designer
+
+## 🔗 Connect With Me
+📸 **Instagram:** [@your_instagram](https://instagram.com/your_instagram)  
+💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your_linkedin)  
+📺 **YouTube:** [Your Channel](https://youtube.com/channel/your_channel)  
+🖥️ **LeetCode:** [Your LeetCode](https://leetcode.com/your_leetcode)  
+
+## 📌 My Interests & Work
+- **Software Development:** Web & App Development, Backend Engineering
+- **Robotics:** Automation, Path Planning, Embedded Systems
+- **Design:** UI/UX, CAD Modeling, Graphic Design
+
+⚡ *Always open to collaborations and tech discussions!* 🚀
