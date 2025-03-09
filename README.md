@@ -1,4 +1,4 @@
-gineer# 👋 Hi, I'm Rajeeb Lochan Chand!
+Hi, I'm Rajeeb Lochan Chand!
 
 🚀 **Aspiring Software Developer | Tech Enthusiast | Robotics & Design Lover**
 
